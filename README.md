@@ -13,3 +13,7 @@ Requires Python >= 3.8. Tested on A40*1.
 
 ## Demo
 You could check demo on `3d_ldm_tutorial.ipynb`. Data sourced from BRaTS 2021 Task 1 Dataset.
+
+You can view results from the `res` folder.
+
+This is only the demo...
